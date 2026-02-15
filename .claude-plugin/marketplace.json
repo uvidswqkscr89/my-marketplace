@@ -1,0 +1,23 @@
+{
+    "name": "my-marketplace",
+    "owner": {
+        "name": "uvidswqkscr89",
+        "email": "uvidswqkscr89@example.com"
+    },
+    "metadata": {
+        "description": "Private marketplace for my skills",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "my-skills",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/uvidswqkscr89/my-skills.git"
+            },
+            "description": "Core skills library including PRD workflows and Test Case generation",
+            "version": "1.0.0",
+            "strict": true
+        }
+    ]
+}
