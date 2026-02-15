@@ -1,6 +1,6 @@
 # my-marketplace
 
-ZS 个人 Claude Code 插件市场。
+my 个人 Claude Code 插件市场。
 
 存放 Claude Code plugins 的元数据配置。
 
